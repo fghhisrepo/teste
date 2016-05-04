@@ -1,0 +1,6 @@
+-------------
+1 - criar colocar um projecto no git
+2 - primeiro commit
+3 - repositorio remoto
+4 - cirar branch
+
